@@ -1,2 +1,3 @@
 # project
-author - geeta
+This is my first project in github
+Author - geeta
